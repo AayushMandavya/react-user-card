@@ -1,0 +1,75 @@
+.card__box{
+    display: flex;
+    margin: auto;
+    padding: 50px;
+}
+
+.card__box__letter{
+color: white;
+justify-content: center;
+    display:flex;
+    font-weight: 500;
+    font-size:20px;
+    padding-top: 7px;
+    font-family:"Roboto",sans-serif;
+
+}
+
+.card__box__text{
+
+}
+h3{
+    line-height: 18.75px;
+    margin-top: auto;
+    font-weight: 500;
+    font-size: 16px;
+    font-family:"Roboto",sans-serif;
+ 
+}
+
+h4{
+    margin-top: -15px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.06px;
+    font-family:"Roboto",sans-serif;
+    color: #767676;
+    
+
+}
+.progress_bar{
+    width: 164px;
+    height: 6px;
+    border-radius: 5.5px;
+    background-color: white;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 47px;
+}
+
+.progress_bar__value{
+    height: 100%;
+    position: absolute;
+    border-radius: 5.5px;
+    top: 0;
+    background-color:#922EE0;
+    
+}
+.card__box__circle{
+    background-color:  #6200EE;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 7px;
+}
+.card__box__online{
+    background-color:  #19E26A;
+    position:absolute;
+    left: 230px;
+    margin-top:10px;
+    margin-left: 3px;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    margin-right: 7px;
+}
