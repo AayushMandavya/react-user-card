@@ -1,11 +1,10 @@
 
-import React,{useState} from "react";
+import React from "react";
 import '../src/css/Card.css';
 
-// class Card extends Component{
+
     function Card(){
-    // const [name,setName]=useState('Aayush Mandavya');
-    // const [job,setJob]=useState('Mentor/SSE');
+  
     const name="Aayush Mandavya";
     const job="Mentor/SSE";
     const progressvalue={
